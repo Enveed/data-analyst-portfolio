@@ -7,6 +7,7 @@ My name is Sopagnarith and this repository is mainly for storing all the project
 * #### [Supermarket Sales](https://github.com/Enveed/data-analyst-portfolio/tree/main/BI/supermarket-sales)
 * #### [LinkedIn Data](https://github.com/Enveed/data-analyst-portfolio/tree/main/BI/linkedin-data)
 * #### [India Murder Motives](https://github.com/Enveed/data-portfolio/tree/main/BI/india-murder-motives)
+* #### [2020 Olympics Dashboard](https://github.com/Enveed/data-portfolio/tree/main/BI/2020-olympics)
 
 ### Python
 * #### [Ethereum Prediction with Linear Regression](https://github.com/Enveed/data-analyst-portfolio/tree/main/Python/ethereum-prediction-lr)
