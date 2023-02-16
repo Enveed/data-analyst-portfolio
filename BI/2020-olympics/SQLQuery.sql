@@ -47,11 +47,3 @@ SELECT Discipline, Female, Male FROM Portfolio..EntriesGender;
 
 -- For MedalsQuery.csv
 SELECT "Team/NOC" AS NOC, Gold, Silver, Bronze FROM Portfolio..Medals;
-
-SELECT COUNT(distinct "Team/NOC") FROM Portfolio..Medals;
-
-SELECT COUNT(distinct NOC) FROM (
-SELECT *, 'Athlete' AS Type FROM Portfolio..Athletes
-	UNION
-SELECT Name, NOC, Discipline, 'Coach' AS Type FROM Portfolio..Coaches
-) AS new;
