@@ -14,6 +14,6 @@ My name is Sopagnarith and this repository is mainly for storing all the project
 * #### [Job Placement Prediction with Logistic Regression](https://github.com/Enveed/data-analyst-portfolio/tree/main/Python/job-placement-prediction)
 
 ### Upcoming
-- [x] <b> <del>MySQL based project with BI</del> </b>
-- [ ] <b> Web scraping based project </b>
-- [ ] <b> Big web scraping based project to help IT programmers in Cambodia </b>
+* #### <del>MySQL based project with BI</del> COMPLETED!
+* #### Web scraping based project
+* #### Big web scraping based project to help IT programmers in Cambodia
